@@ -7,7 +7,7 @@ Vibrant Vibes: A colorful, enchanting UI that feels alive!
 You are free to fork, modify, and use To-Do Genie for personal and commercial purposes. Contributions are always welcome!
 For any questions, suggestions, or magical collaborations, feel free to reach out:
 📧 Email: dsivaparvathi03@gmail.com
-🐙 GitHub: your-sivaparvathi23
+🐙 GitHub: sivaparvathi23
 
 
 
